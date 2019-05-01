@@ -66,7 +66,7 @@ void initLoop(){
   Serial.write("Y");
 }
 
-void loop() //This code is looped forever
+void loop(
 {
   if ((millis() - lastStreamTime) >= streamPeriod)
   {
@@ -93,18 +93,9 @@ void loop() //This code is looped forever
 
     up_in = digitalRead(up_pin);
     down_in = digitalRead(down_pin);
-  x_in = x_in*0.5;
-  y_in = y_in*0.5;
-/*
-  Serial.print(q1);
-  Serial.print("\t");
-  Serial.print(q2);
-  Serial.print("\t");
-  Serial.print(q3);
-  Serial.print("\t");
-  Serial.print(q4);
-  Serial.print("\n");
-*/
+    x_in = x_in*0.5;
+    y_in = y_in*0.5;
+
 
     Serial.print("@@@");
     Serial.print((char) mapFloat(q1,-1,1,0,255));
