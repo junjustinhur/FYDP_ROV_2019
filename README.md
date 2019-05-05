@@ -20,9 +20,6 @@ Final year design project
   ------------------        -------------------        ----------------        -----------------------        --------------
   ```
 
-  ### Arduino
-  Arduinos are controllers of choice in this project - they are used as transmitter (in the form a remote control on-shore) and receiver (controller used on-board of the ROV)
-
   ### Raspberry Pi
   Raspberry Pi is used as buffer for data from on-board Arduino controller and also camera (in the future), which selected data will then be relayed to the Windows machine through Ethernet to be viewed by the user. There are several things that need to be setup first on Raspberry Pi for socket communication between RasPi and Windows to work properly
 
