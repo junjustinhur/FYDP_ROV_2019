@@ -66,15 +66,9 @@ Final year design project
 
   ## How to run the ROV
 
-    1. Download or clone 'RaspberryPi' and 'Windows'.
-    2. Boot the RaspberryPi. 
-    2. VNC server setting
-    3. Move 'RaspberryPi' folder to RaspberryPi.
-    4. Open 'receiver.ino' via RaspberryPi and upload to the ROV.
-    5. Open 'transmitter.ino' via windows and upload to the controller.
-    6. Open 'sendSerial.py' on Windows via python IDE and run.
-    7. Run 'readSerial.py' on RaspberryPi.
-    8. Set the voltage input to 12V on the power supply.
+    1. Boot the RaspberryPi. 
+    2. Open 'sendSerial.py' on a Python IDE and run.
+    3. Open terminal and launch 'readSerial.py'
 
   ## How to control the ROV
 
