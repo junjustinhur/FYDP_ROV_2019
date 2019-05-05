@@ -1,16 +1,16 @@
-# FYDP_ROV_2019
+## FYDP_ROV_2019
 Final year design project
 
-Hardware requirements and setup
+# Hardware requirements and setup
   
 
-Software prerequisites
+# Software prerequisites
   1. python 2 IDE
   2. VNC viewer
   3. IP scanner
   4. Arduino IDE
   
-How to run the ROV
+# How to run the ROV
 
   1. Download or clone 'RaspberryPi' and 'Windows'.
   2. Boot the RaspberryPi. 
@@ -22,6 +22,6 @@ How to run the ROV
   7. Run 'readSerial.py' on RaspberryPi.
   8. Set the voltage input to 12V on the power supply.
   
-How to control the ROV
+# How to control the ROV
   
   
