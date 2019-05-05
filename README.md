@@ -66,12 +66,12 @@ Final year design project
 
   ## How to run the ROV
 
-    1. Boot the RaspberryPi. 
-    2. Open 'sendSerial.py' on a Python IDE and run.
-    3. Open terminal and launch 'readSerial.py'
-    ```
-    @pi ....
-    ```
+  1. Boot the RaspberryPi. 
+  2. Open 'sendSerial.py' on a Python IDE and run.
+  3. Open terminal and launch 'readSerial.py'
+   ```
+   @pi ....
+   ```
 
   ## How to control the ROV
 
