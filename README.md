@@ -69,6 +69,9 @@ Final year design project
     1. Boot the RaspberryPi. 
     2. Open 'sendSerial.py' on a Python IDE and run.
     3. Open terminal and launch 'readSerial.py'
+    ```
+    @pi ....
+    ```
 
   ## How to control the ROV
 
