@@ -19,6 +19,10 @@ Final year design project
   | Remote Control | -----> | Windows Machine | <----> | Raspberry Pi | -----> | On-board Controller | <----> | Components |
   ------------------        -------------------        ----------------        -----------------------        --------------
   ```
+  
+  ### Arduino
+  Arduinos are controllers of choice in this project - they are used as transmitter (in the form a remote control on-shore) and receiver (controller used on-board of the ROV). trasmitter.ino is uploaded in the oh-shore controller and receiver.ino is uploaded in the on-board controller. The arduino file and the required libraries are put in the same directory -- by default, I've put them in /home/document/FYP/arduino/transmitter folder and /home/pi/fydprov2019/reciever folder.    
+  
 
   ### Raspberry Pi
   Raspberry Pi is used as buffer for data from on-board Arduino controller and also camera (in the future), which selected data will then be relayed to the Windows machine through Ethernet to be viewed by the user. There are several things that need to be setup first on Raspberry Pi for socket communication between RasPi and Windows to work properly
