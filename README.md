@@ -84,5 +84,8 @@ Final year design project
 
   ## How to control the ROV
     
+    Push Joystic up, down, right, and left to surge and sway.
+    Push upper and lower button to heave.
+    Tile and rotate the controller to control attitude.
 
 
