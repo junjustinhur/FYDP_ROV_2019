@@ -2,7 +2,12 @@
 Final year design project
 
   ## Hardware requirements and setup
-
+  ### Hardware Assembly
+  Refer to Assembly instruction provided in Hardware folder
+  
+  ### Connection
+  -----------------------
+    
 
   ## Software prerequisites
     1. python 2 IDE
