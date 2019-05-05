@@ -3,10 +3,10 @@ Final year design project
 
   ## Hardware requirements and setup
   ### Hardware Assembly
-  Refer to Assembly instruction provided in Hardware folder
+  Refer to assembly instructions provided in Hardware folder
   
   ### Connection
-  -----------------------
+  ????
     
 
   ## Software prerequisites
@@ -83,5 +83,6 @@ Final year design project
    ```
 
   ## How to control the ROV
+    
 
 
