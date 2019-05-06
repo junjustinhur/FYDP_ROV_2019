@@ -2,13 +2,9 @@
 Final year design project
 
   ## Hardware requirements and setup
-  ### Hardware Assembly
+  ### Hardware Assembly and wire connection
   Refer to assembly instructions provided in Hardware folder
-  
-  ### Connection
-  ????
     
-
   ## Software prerequisites
     1. python 2 IDE
     2. VNC viewer
