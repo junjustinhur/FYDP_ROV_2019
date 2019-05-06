@@ -86,6 +86,6 @@ Final year design project
     
     Push Joystic up, down, right, and left to surge and sway.
     Push upper and lower button to heave.
-    Tile and rotate the controller to control attitude.
+    Tilte and rotate the controller to control attitude.
 
 
