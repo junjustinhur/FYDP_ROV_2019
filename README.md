@@ -1,5 +1,6 @@
 # FYDP_ROV_2019
-Final year design project
+HKUST, Mechanical Engineering, Final year design project
+  Opensource ROV with Interchangable Modules.
 
   ## Hardware requirements and setup
   ### Hardware Assembly and wire connection
