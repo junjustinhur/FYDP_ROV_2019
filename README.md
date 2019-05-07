@@ -2,7 +2,14 @@
   HKUST, Mechanical Engineering, Final year design project
   
   Opensource ROV with Interchangable Modules.
-
+  
+  ## collaborators
+    Jun Hur - junjustinhur
+    Richard Lauwrence - rlauwrence
+    Alvin Chan - anfchan
+    Gaurav Vijai Jeandani
+      
+  
   ## Hardware requirements and setup
   
   Refer to assembly instructions and bill of materials provided in Hardware folder
