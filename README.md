@@ -1,10 +1,11 @@
 # FYDP_ROV_2019
-HKUST, Mechanical Engineering, Final year design project
+  HKUST, Mechanical Engineering, Final year design project
+  
   Opensource ROV with Interchangable Modules.
 
   ## Hardware requirements and setup
-  ### Hardware Assembly and wire connection
-  Refer to assembly instructions provided in Hardware folder
+  
+  Refer to assembly instructions and bill of materials provided in Hardware folder
     
   ## Software prerequisites
     1. python 2 IDE
