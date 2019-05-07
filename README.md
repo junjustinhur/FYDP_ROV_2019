@@ -77,7 +77,10 @@
   2. Open 'sendSerial.py' on a Python IDE and run.
   3. Open terminal and launch 'readSerial.py'
    ```
-   @pi ....
+   ssh pi@169.254.32.218
+   vncserver :1 (if you want to access desktop via VNC)
+   cd fydprov2019 (or wtv the folder is)
+   python readserial.py
    ```
 
   ## How to control the ROV
