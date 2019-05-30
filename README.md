@@ -96,10 +96,11 @@
   
   1. Push Joystic forward, backward, right, and left to surge and sway. Rotate the controller body to yaw.
        
-       ![](Images/Control%20image1.png)
+       <img src="Images/Control%20image1.png" width = "700">
        
        
   2. Tilte the controller forward, backward, left and right to pitch and roll. Push the upper and lower buttons to heave.
        
-       ![](Images/Control%20image2.png)
+       <img src="Images/Control%20image2.png" width = "700">
+
 
